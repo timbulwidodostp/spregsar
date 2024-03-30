@@ -1,6 +1,8 @@
 # spregsar
 Maximum Likelihood Estimation Spatial Lag Cross Sections Regression Use spregsar With STATA 18
 
+https://www.youtube.com/watch?v=NbQwLp8_HHQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
